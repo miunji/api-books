@@ -289,7 +289,7 @@ PUT https://api-books.loc/books/update/1/
 
 ### Method DEL /books
 
-Description: Books update by id.
+Description: Books delete by id.
 
 URL: https://api-books.loc/books/delete/{id}/
 
