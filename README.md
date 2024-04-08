@@ -89,7 +89,7 @@ POST https://api-books.loc/authors/update/1/
 {
     "name": "Charles Dickens",
     "birth_year": "1899",
-    "country": "Great Britain",
+    "country": "Great Britain"
 }
 ```
 
