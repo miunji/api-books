@@ -12,7 +12,7 @@ HTTP Method: POST
 
 #### Request parameters:
 
-**name** (string) *required* - Author's name<br>
+**name** (string) *required* - Author's name <br>
 **birth_year** (integer) - Year of birth <br>
 **country** (string) - Country where the author was born <br>
 
@@ -67,7 +67,7 @@ HTTP Method: PUT
 
 #### Request parameters:
 
-**name** (string) *required* - Author's name<br>
+**name** (string) *required* - Author's name <br>
 **birth_year** (integer) - Year of birth <br>
 **country** (string) - Country where the author was born <br>
 
